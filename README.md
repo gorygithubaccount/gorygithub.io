@@ -5,7 +5,7 @@
 
 **gorygithubaccount/gorygithubaccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Please read my personal profile](https://gorygithubaccount.github.io/gorygithub.io/)
+[Please read my personal profile](https://gorygithub.io.github.io/gorygithub.io/)
 
 Here are some ideas to get you started:
 
