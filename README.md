@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 
-**gorygithubaccount/gorygithubaccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gorygithubaccount/gorygithub.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Please read my personal profile](https://gorygithub.io.github.io/gorygithub.io/)
+[Please read my personal profile](https://goryggithubaccount.github.io/gorygithub.io/finalproject.html)
 
 Here are some ideas to get you started:
 
