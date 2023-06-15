@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 # 🔭 I’m currently working on National Centeral University
-# 🌱 I’m currently learning Web Programming
+# 🌱 I’m currently learning Computational Thinking 
 # 👯 I’m going to have a dinner 
 ## 🤔 I’m looking for help with my final exam
 ## 💬 Ask me about my badminton
